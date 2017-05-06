@@ -11,21 +11,21 @@
   "dependencies": {
     "deep-equal": "~1.0.0",
     "defined": "~1.0.0",
-    "function-bind": "~1.0.2",
-    "glob": "~5.0.3",
+    "function-bind": "~1.1.0",
+    "glob": "~7.1.1",
     "has": "~1.0.1",
     "inherits": "~2.0.1",
-    "object-inspect": "~1.0.0",
+    "object-inspect": "~1.2.2",
     "resumer": "~0.0.0",
     "string.prototype.trim": "^1.1.1",
     "through": "~2.3.4"
   },
   "devDependencies": {
-    "concat-stream": "~1.4.1",
-    "falafel": "~1.0.1",
+    "concat-stream": "~1.6.0",
+    "falafel": "~2.1.0",
     "js-yaml": "^3.3.1",
-    "tap": "~0.7.1",
-    "tap-parser": "^1.1.6"
+    "tap": "~10.3.2",
+    "tap-parser": "^5.3.3"
   },
   "scripts": {
     "test": "tap test/*.js"
